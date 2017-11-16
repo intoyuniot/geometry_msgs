@@ -1,0 +1,51 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Accel  KEYWORD1
+AccelStamped  KEYWORD1
+AccelWithCovariance  KEYWORD1
+AccelWithCovarianceStamped  KEYWORD1
+Inertia  KEYWORD1
+InertiaStamped  KEYWORD1
+Point  KEYWORD1
+Point32  KEYWORD1
+PointStamped  KEYWORD1
+Polygon  KEYWORD1
+PolygonStamped  KEYWORD1
+Pose  KEYWORD1
+Pose2D  KEYWORD1
+PoseArray  KEYWORD1
+PoseStamped  KEYWORD1
+PoseWithCovariance  KEYWORD1
+PoseWithCovarianceStamped  KEYWORD1
+Quaternion  KEYWORD1
+QuaternionStamped  KEYWORD1
+Transform  KEYWORD1
+TransformStamped  KEYWORD1
+Twist  KEYWORD1
+TwistStamped  KEYWORD1
+TwistWithCovariance  KEYWORD1
+TwistWithCovarianceStamped  KEYWORD1
+Vector3  KEYWORD1
+Vector3Stamped  KEYWORD1
+Wrench  KEYWORD1
+WrenchStamped  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+serialize  KEYWORD2
+deserialize  KEYWORD2
+getType  KEYWORD2
+getMD5  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

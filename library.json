@@ -1,0 +1,17 @@
+{
+    "name": "geometry_msgs",
+    "version": "1.0.0",
+    "keywords": "geometry",
+    "description": "geometry-几何信息库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/geometry_msgs.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
